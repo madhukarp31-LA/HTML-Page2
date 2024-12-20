@@ -1,0 +1,13 @@
+Display a header and display any paragraph in HTML
+ Change the background color of the body to color Fuchsia
+ Display the insurance company policy holder’s information in a table. The table must have 
+the following information:
+» Policy Id, Policy Holder’s Name, and Insured Amount
+ Perform the following operations on it:
+» Display the table which is 50% width of the screen
+» Table header should be in Dark Gray color
+Display the border in green color for table header and data
+ Display an image by specifying absolute position at 300 from left and 100 pixels from top
+ Display 3 paragraphs and have separate borders for them. Display the first paragraph in 
+solid border, second in dotted and third in dashed. Font color should be in navy blue and 
+size of the font should be 20 pixels
